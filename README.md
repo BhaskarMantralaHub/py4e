@@ -22,8 +22,6 @@ python3
 * Parenthesis 
 * Exponent / Power (**)
 * Multiplication 
-* Division
-* Modulus
-* Addition
-* Subtraction
+* Division / Multiplication / Modulus - Left to right
+* Addition / Subtraction - Left to right
 
